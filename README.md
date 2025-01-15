@@ -9,7 +9,7 @@
 
 ## Book time with me for an expert consultation
 
-<span style="color: #E91D2B; font-size:18pt;">[Book time with me via Intro](https://intro.co/LiviuTudor)</span>
+<span style="color: #E91D2B; font-size:18pt;">Book time with me via <a href="https://intro.co/LiviuTudor">Intro</a></span>
 
 ## Find me also at:
 * [liviutudor.com](https://liviutudor.com)
